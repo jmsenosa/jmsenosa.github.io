@@ -1,0 +1,23 @@
+html, body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+}
+
+.container img {
+  height:60vh;
+  margin: 100px auto 0;
+  display:block;
+}
+
+.logo {
+    background-image: url('./img/tutor-img-077.svg');
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 200px;
+    margin-left: 5%;
+}
